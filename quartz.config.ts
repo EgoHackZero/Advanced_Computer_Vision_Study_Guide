@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Nepokrytyi Yehor knowledge graph",
+    pageTitle: "Advanced Computer Vision Study Guide",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
